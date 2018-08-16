@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MspFinder</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Msp">MICROSOFT STUDENT PARTNER </string>
+</resources>
